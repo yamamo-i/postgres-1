@@ -1,0 +1,3 @@
+[submodule "12/postgres"]
+	path = 12/postgres
+	url = git@github.com:yamamo-i/postgres.git
